@@ -75,7 +75,15 @@
             //double D_Pages = Pages; // implicity casting
             #endregion
 
-           
+            #region Question06
+            /*
+             * Declare a double price = 49.99;
+             * then convert it into an int using a cast.
+             */
+            //double price = 49.99;
+            //int I_Price = (int)price; // convert To Int
+
+            #endregion
 
             
 
