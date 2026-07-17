@@ -4,7 +4,18 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            #region Question01
+            /*
+             Create a Book class with a Title (string) and Pages (int).
+            Create a Book object and store it in a variable of type object.
+            Print it. 
+             */
+
+            //object Bk = new Book() { title = "C# Basecs", pages = 32 };
+            //Console.WriteLine($"The obj is {Bk}");
+            #endregion
+
+           
         }
     }
 }
