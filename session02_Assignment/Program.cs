@@ -66,6 +66,17 @@
             //}
             #endregion
 
+            #region Question05
+            /*
+             * Declare an int pages = 300; 
+             * then store it in a double variable without using a cast.
+             */
+            //int Pages = 300;
+            //double D_Pages = Pages; // implicity casting
+            #endregion
+
+           
+
             
 
         }
