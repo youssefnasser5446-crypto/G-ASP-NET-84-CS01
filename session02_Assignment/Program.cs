@@ -33,6 +33,20 @@
 
             #endregion
 
+            #region Question03
+            /*
+             Look at the line below. Is it a compile-time error,
+            a runtime error, or a logical error? Fix it.
+             int pages = "464";
+             */
+            // int pages = "464";//  answer compiler error
+
+            // int pages = Convert.ToInt32("464"); // sol
+
+            #endregion
+
+            
+
         }
     }
 }
