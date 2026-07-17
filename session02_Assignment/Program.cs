@@ -15,7 +15,24 @@
             //Console.WriteLine($"The obj is {Bk}");
             #endregion
 
-           
+            #region Question02
+            /*
+             Using the Book class above, 
+            print the result of calling ToString()
+            , Equals() (compare book with itself),
+            GetHashCode(), and GetType() on book.
+             */
+
+            //Console.WriteLine($"The  Book in {Bk.ToString()}");
+
+            //Console.WriteLine($"Are Equals ?: {Bk.Equals(Bk)}");
+
+            //Console.WriteLine($"The HashCode is {Bk.GetHashCode()}");
+
+            //Console.WriteLine($"The Type is {Bk.GetType()}");
+
+            #endregion
+
         }
     }
 }
